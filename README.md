@@ -1,5 +1,3 @@
-# Cidade com seu DDD, código do IBGE, população (2015), latitude e longitude.
-
 - tabela de País, tem 248 paises com latitude e longitude;
 - tabela de Região, tem somente as 5 regiões do Brasil;
 - tabela de Estado, tem o código ISO, usado muito em NF-e;
